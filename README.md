@@ -7,14 +7,18 @@ The program has two modes “encoding” (compressing) and
 
 
 
-##Encoding Mode:
+#Encoding Mode:
+
 • Your program should accept three input parameters, e.g.,
- > <YourProgramName> Encode <input_file_path_to_compress> <path_of_output_file>
+ <YourProgramName> Encode <input_file_path_to_compress> <path_of_output_file>
+ 
 • Your code should compress the file and produce the output to the given
 <path_of_output_file> location 
 
-##Decoding Mode:
+#Decoding Mode:
+
 • Your program should accept three input parameters, e.g.,
- > <YourProgramName> Decode <input_file_path_to_decompress> <path_of_output_file>
+ <YourProgramName> Decode <input_file_path_to_decompress> <path_of_output_file>
+ 
 • Your code should decompress the input file and produce the output to the given
 <path_of_output_file> location. 
