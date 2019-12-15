@@ -7,7 +7,7 @@ The program has two modes “encoding” (compressing) and
 
 
 
-#Encoding Mode:
+# Encoding Mode:
 
 • Program accepts three input parameters, e.g:
 
@@ -16,7 +16,7 @@ The program has two modes “encoding” (compressing) and
 • Code compresses the file and produces the output to the given
 <path_of_output_file> location 
 
-#Decoding Mode:
+# Decoding Mode:
 
 • Program accepts three input parameters, e.g:
 
@@ -28,7 +28,7 @@ The program has two modes “encoding” (compressing) and
 
 Language: Java 8 
  
-#How to Compile: 
+# How to Compile: 
 
 i. Use java 1.8 compiler 
 
@@ -38,7 +38,7 @@ iii. Type: javac Main.java
 
 iv. Press Enter v. Code is now compiled 
 
-#How to Run: 
+# How to Run: 
 
 I. locate file in cmd 
 
