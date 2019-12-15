@@ -1,4 +1,4 @@
-# HuffmanCodeAlgorithmForCompressionAndDecompression
+# Huffman Code Algorithm For Compression And Decompression
 Huffman code implementation for compression and decompression of text files
 
 An executable code that implements Huffman Code algorithm. 
